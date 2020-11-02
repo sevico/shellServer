@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="guava-23.1-jre">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/guava-23.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ShakaApktool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/ShakaApktool.jar!/" />
+    </SOURCES>
+  </library>
+</component>
